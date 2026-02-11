@@ -150,4 +150,4 @@ This project was developed for educational purposes.
 
 ---
 
-If you have any feedback or questions, feel free to connect with me via GitHub or e-mail: andreislicker@yahoo.com
+If you have any feedback or questions, feel free to contact me via GitHub or e-mail: andreislicker@yahoo.com
